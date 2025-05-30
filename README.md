@@ -1,4 +1,4 @@
-3Penzi App
+Penzi App
 
 ##Project Brief
 ##Problem Statement
