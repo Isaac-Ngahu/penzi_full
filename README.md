@@ -1,4 +1,4 @@
-Penzi App
+# Penzi App
 
 ## Project Brief
 
